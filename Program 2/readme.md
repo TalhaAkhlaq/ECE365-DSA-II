@@ -1,4 +1,4 @@
-# Program 2
+# Program 2: Priority Queue Using Binary Heap
 
 ## Description
 
