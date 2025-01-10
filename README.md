@@ -6,10 +6,10 @@ This repository contains programming assignments and projects developed as part 
 
 This repository includes three C++ programs developed for the course:
 
-1. **Program 1**: Develop a hash table to implement a spell checker that efficiently processes large dictionaries and documents.
-2. **Program 2**: Implements a binary heap-based priority queue with operations for insertion, delete-min, key adjustment, and removal.
-3. **Program 3**: Solves the single-source shortest-path problem using Dijkstra's algorithm with a binary heap for efficient graph pathfinding.
-4. **Program 4**: Implements a solution to a dynamic programming challenge, demonstrating optimization techniques.
+1. **Program 1**: A spell checker that uses a custom hash table to handle large dictionaries and identify unrecognized words in documents.
+2. **Program 2**: A priority queue built with a binary heap that manages tasks or elements based on priority, supporting insertion, deletion, and priority updates.
+3. **Program 3**: A graph algorithm that calculates the shortest paths from a starting vertex to all other vertices using Dijkstra's algorithm and a binary heap.
+4. **Program 4**: A dynamic programming solution designed to solve complex optimization problems through recursive techniques.
 
 ## Copyright & Licensing
 
