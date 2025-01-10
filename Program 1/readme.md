@@ -1,4 +1,4 @@
-# Program 1
+# Program 1: Uses the hash table from Program 1 to map IDs to heap nodes for efficient operations.
 
 ## Description
 
