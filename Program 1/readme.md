@@ -1,4 +1,4 @@
-Program 1: Spell Checker Using Hash Tables
+## Program 1: Spell Checker Using Hash Tables
 
 ## Description
 
